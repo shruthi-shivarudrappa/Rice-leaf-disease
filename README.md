@@ -1,0 +1,3 @@
+# Rice-leaf-disease
+
+The fast and appropriate analysis and recognition of plant diseases can control the growth of diseases on various crops towards improving the quality and productivity of crops. The automatic system can perform disease recognition at minimum cost and error without the farm specialist’s interpretation. It is very difficult to manually identify appropriate properties for distinguishing different kinds of crop diseases by using image processing and machine learning methods. In this study, we have developed a convolutional neural network (CNN) framework, a deep learning approach for automatically classifying three kinds of rice leaf diseases such as bacterial blight, blast, and brown mark.
